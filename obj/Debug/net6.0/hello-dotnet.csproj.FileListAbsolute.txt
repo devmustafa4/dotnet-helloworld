@@ -1,0 +1,15 @@
+/home/spectre/Documents/Project/hello-dotnet/bin/Debug/net6.0/hello-dotnet
+/home/spectre/Documents/Project/hello-dotnet/bin/Debug/net6.0/hello-dotnet.deps.json
+/home/spectre/Documents/Project/hello-dotnet/bin/Debug/net6.0/hello-dotnet.runtimeconfig.json
+/home/spectre/Documents/Project/hello-dotnet/bin/Debug/net6.0/hello-dotnet.dll
+/home/spectre/Documents/Project/hello-dotnet/bin/Debug/net6.0/ref/hello-dotnet.dll
+/home/spectre/Documents/Project/hello-dotnet/bin/Debug/net6.0/hello-dotnet.pdb
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.csproj.AssemblyReference.cache
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.AssemblyInfoInputs.cache
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.AssemblyInfo.cs
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.csproj.CoreCompileInputs.cache
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.dll
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/ref/hello-dotnet.dll
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.pdb
+/home/spectre/Documents/Project/hello-dotnet/obj/Debug/net6.0/hello-dotnet.genruntimeconfig.cache
